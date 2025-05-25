@@ -3,7 +3,7 @@
 **Location:** Visakhapatnam  
 **Email:** d.v.satyanarayana260@gmail.com  
 **LinkedIn:** [venkatasatyanarayana-duba-679372255](https://www.linkedin.com/in/venkatasatyanarayana-duba-679372255)
-
+**Contact:** +91 8639796150
 ---
 
 ## Professional Summary

@@ -1,4 +1,4 @@
-# VENKATA SATYANARAYANA DUBA
+# DUBA VENKATA SATYANARAYANA
 
 **Location:** Visakhapatnam  
 **Email:** d.v.satyanarayana260@gmail.com  

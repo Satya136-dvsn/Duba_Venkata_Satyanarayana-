@@ -6,11 +6,11 @@
 
 ---
 
-## Professional Summary
+## 👨‍💻 Professional Summary
 
-Results-driven engineering graduate with hands-on experience in Java backend development, data analytics, and cloud fundamentals. I focus on building practical software solutions, applying data-driven approaches to real-world problems, and strengthening my skills through project-based learning. I actively build applications using Java, Python, SQL, and cloud platforms such as AWS and Oracle OCI.
+Result-oriented engineering graduate with a strong technical foundation in Java backend development, data analytics, and cloud architecture. I focus on engineering scalable software solutions and leveraging data-driven insights to solve complex business challenges. Passionate about applying cloud fundamentals (AWS, OCI) and modern development practices to build robust, real-world applications.
 
-## Technical Skills
+## 🛠 Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,26 +23,26 @@ Results-driven engineering graduate with hands-on experience in Java backend dev
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## Core Competencies
+## 💡 Core Competencies
 
 - **Backend Development:** Java, REST APIs, MySQL
 - **Data Analysis & Visualization:** Python, SQL, Power BI, Tableau
 - **Cloud Fundamentals:** AWS, Oracle Cloud Infrastructure (OCI)
 - **Academic Hardware Design:** FPGA, Verilog
 
-## Featured Projects
+## 🚀 Featured Projects
 
-- **Java Budget AI-Driven Expense Tracker (Full Stack):** Engineered a full-stack expense tracking application using Java and rule-based logic to provide automated expense categorization, budget summaries, and financial insights.
-- **Biz Stratosphere – AI Business Intelligence Platform:** Developed a business intelligence platform focused on data-driven decision support, report generation, and analytical insights using modern web technologies and AI concepts.
-- **Stock Market Portfolio Optimization:** Implemented advanced statistical models using Python to analyze historical market data and optimize investment portfolio allocations.
-- **T20 World Cup 2022 Analysis:** Conducted in-depth data analysis of tournament statistics to visualize player performance metrics and team trends using Power BI and Python.
-- **32-Bit Hybrid Multiplier using FPGA (IEEE Paper):** Designed and simulated a high-speed hybrid multiplier architecture, achieving optimized power and area efficiency for digital signal processing.
+- **Java Budget AI-Driven Expense Tracker:** Engineered a full-stack expense tracking application using Java and rule-based logic to provide automated financial insights.
+- **Biz Stratosphere – AI Business Intelligence Platform:** Developed a strategic BI platform utilizing AI to deliver predictive analytics and automated performance reporting.
+- **Stock Market Portfolio Optimization:** Implemented advanced statistical models in Python to analyze market data and optimize investment allocations.
+- **T20 World Cup 2022 Analysis:** Conducted in-depth analysis of tournament statistics to visualize player metrics and team trends using Power BI.
+- **32-Bit Hybrid Multiplier using FPGA:** Designed a high-speed hybrid multiplier architecture, achieving optimized power and area efficiency (IEEE Paper).
 
-## Publications
+## 📚 Publications
 
-- **IEEE Conference Paper:** *32-Bit Hybrid Multiplier using FPGA* – Presented novel hardware architecture for efficient digital signal processing.
+- **IEEE Conference Paper:** *32-Bit Hybrid Multiplier using FPGA* – Novel hardware architecture for efficient digital signal processing.
 
-## Professional Links
+## 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://satyaportfolio-ten.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Satya136--dvsn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satya136-dvsn)

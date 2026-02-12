@@ -56,11 +56,11 @@ Engineer operating at the intersection of backend architecture, data systems, cl
 
 ```mermaid
 graph TD
-    Client[Client (Web/App)] --> REST[REST API Layer]
-    REST --> Service[Service Layer (Business Logic)]
-    Service --> Validation[Data Validation & Processing]
-    Validation --> DB[(Relational Database MySQL/PostgreSQL)]
-    DB --> Cloud[Cloud Deployment (AWS EC2 / Elastic Beanstalk)]
+    Client["Client (Web/App)"] --> REST["REST API Layer"]
+    REST --> Service["Service Layer (Business Logic)"]
+    Service --> Validation["Data Validation & Processing"]
+    Validation --> DB["Relational Database (MySQL/PostgreSQL)"]
+    DB --> Cloud["Cloud Deployment (AWS EC2 / Elastic Beanstalk)"]
 ```
 
 ---
@@ -69,10 +69,10 @@ graph TD
 
 ```mermaid
 graph TD
-    Raw[Raw Dataset] --> Clean[Cleaning & Transformation]
-    Clean --> Rules[Validation Rules]
-    Rules --> Store[Structured Storage]
-    Store --> Output[Analytics / Reporting Output]
+    Raw["Raw Dataset"] --> Clean["Cleaning & Transformation"]
+    Clean --> Rules["Validation Rules"]
+    Rules --> Store["Structured Storage"]
+    Store --> Output["Analytics / Reporting Output"]
 ```
 
 ---
@@ -81,10 +81,10 @@ graph TD
 
 ```mermaid
 graph TD
-    Algo[Algorithm Selection (Vedic + Karatsuba)] --> RTL[RTL Design (Verilog)]
-    RTL --> Sim[Simulation & Functional Validation]
-    Sim --> Timing[Performance & Timing Analysis]
-    Timing --> Opt[Optimization for Speed & Area]
+    Algo["Algorithm Selection (Vedic + Karatsuba)"] --> RTL["RTL Design (Verilog)"]
+    RTL --> Sim["Simulation & Functional Validation"]
+    Sim --> Timing["Performance & Timing Analysis"]
+    Timing --> Opt["Optimization for Speed & Area"]
 ```
 
 ---
@@ -148,7 +148,9 @@ I build systems — not just features.
 
 # 📬 Connect
 
-📍 Visakhapatnam, India  
-📧 <d.v.satyanarayana260@gmail.com>  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://satyaportfolio-ten.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Satya136--dvsn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satya136-dvsn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatasatyanarayana-duba-679372255)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:d.v.satyanarayana260@gmail.com)
 
 > Engineering systems that scale. Optimizing systems that compute.

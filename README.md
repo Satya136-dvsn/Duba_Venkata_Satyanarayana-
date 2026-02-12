@@ -1,52 +1,154 @@
-# Duba Venkata Satyanarayana
+# Duba Venkata Satyanarayana  
 
-### Early Career Software Engineer | Data & Cloud Enthusiast
+### Hybrid Systems Engineer | Backend • Data • Cloud • Performance Engineering  
 
-📍 **Visakhapatnam, India**
+Java • Python • SQL • AWS • IEEE Published Researcher  
+
+Engineer operating at the intersection of backend architecture, data systems, cloud deployment, and computational optimization.
 
 ---
 
-## 👨‍💻 Professional Summary
+# 📊 GitHub Performance
 
-Result-oriented engineering graduate with a strong technical foundation in Java backend development, data analytics, and cloud architecture. I focus on engineering scalable software solutions and leveraging data-driven insights to solve complex business challenges. Passionate about applying cloud fundamentals (AWS, OCI) and modern development practices to build robust, real-world applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satya136-dvsn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya136-dvsn&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya136-dvsn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🛠 Technical Skills
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+# 🧠 Tech Stack
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## 💡 Core Competencies
+---
 
-- **Backend Development:** Java, REST APIs, MySQL
-- **Data Analysis & Visualization:** Python, SQL, Power BI, Tableau
-- **Cloud Fundamentals:** AWS, Oracle Cloud Infrastructure (OCI)
-- **Academic Hardware Design:** FPGA, Verilog
+### ⚙ Backend & Systems
 
-## 🚀 Featured Projects
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Java Budget AI-Driven Expense Tracker:** Engineered a full-stack expense tracking application using Java and rule-based logic to provide automated financial insights.
-- **Biz Stratosphere – AI Business Intelligence Platform:** Developed a strategic BI platform utilizing AI to deliver predictive analytics and automated performance reporting.
-- **Stock Market Portfolio Optimization:** Implemented advanced statistical models in Python to analyze market data and optimize investment allocations.
-- **T20 World Cup 2022 Analysis:** Conducted in-depth analysis of tournament statistics to visualize player metrics and team trends using Power BI.
-- **32-Bit Hybrid Multiplier using FPGA:** Designed a high-speed hybrid multiplier architecture, achieving optimized power and area efficiency (IEEE Paper).
+---
 
-## 📚 Publications
+### ☁ Cloud & DevOps
 
-- **IEEE Conference Paper:** *32-Bit Hybrid Multiplier using FPGA* – Novel hardware architecture for efficient digital signal processing.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🔗 Connect
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://satyaportfolio-ten.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Satya136--dvsn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satya136-dvsn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatasatyanarayana-duba-679372255)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:d.v.satyanarayana260@gmail.com)
+# 🏗 System Architecture Thinking
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satya136-dvsn&show_icons=true&theme=default)
+## � Backend Application Architecture
+
+```mermaid
+graph TD
+    Client[Client (Web/App)] --> REST[REST API Layer]
+    REST --> Service[Service Layer (Business Logic)]
+    Service --> Validation[Data Validation & Processing]
+    Validation --> DB[(Relational Database MySQL/PostgreSQL)]
+    DB --> Cloud[Cloud Deployment (AWS EC2 / Elastic Beanstalk)]
+```
+
+---
+
+## 🔹 Data Processing Workflow
+
+```mermaid
+graph TD
+    Raw[Raw Dataset] --> Clean[Cleaning & Transformation]
+    Clean --> Rules[Validation Rules]
+    Rules --> Store[Structured Storage]
+    Store --> Output[Analytics / Reporting Output]
+```
+
+---
+
+## 🔹 FPGA Computational Design Flow
+
+```mermaid
+graph TD
+    Algo[Algorithm Selection (Vedic + Karatsuba)] --> RTL[RTL Design (Verilog)]
+    RTL --> Sim[Simulation & Functional Validation]
+    Sim --> Timing[Performance & Timing Analysis]
+    Timing --> Opt[Optimization for Speed & Area]
+```
+
+---
+
+# 🚀 Featured Engineering Work
+
+### 🔹 Biz Stratosphere – Modular Analytics Platform
+
+- Designed scalable REST API architecture
+- Implemented structured validation pipelines
+- Maintained modular backend codebase
+- Version-controlled collaborative workflow
+
+---
+
+### 🔹 BudgetWise – SQL-Driven Expense Intelligence
+
+- Designed multiple REST endpoints
+- Built relational database schema
+- Implemented classification logic
+- Ensured data correctness via debugging
+
+---
+
+### 🔹 Stock Portfolio Optimization
+
+- Applied risk-return analysis
+- Structured data transformation workflows
+- Generated analytical summaries for decision-making
+
+---
+
+### 🔹 IEEE Published 32-bit Hybrid Multiplier
+
+- Improved computational efficiency using hybrid algorithm integration
+- Conducted performance and timing analysis
+- Published in IEEE ICCCNT 2025  
+DOI: 10.1109/ICCCNT.2025.11012447
+
+---
+
+# 🎯 Engineering Philosophy
+
+✔ Correctness First  
+✔ Scalable Architecture  
+✔ Performance Awareness  
+✔ Cross-Domain Systems Thinking  
+
+I build systems — not just features.
+
+---
+
+# 🏆 Credentials
+
+• IEEE ICCCNT 2025 Published Author  
+• Oracle Cloud Infrastructure – AI Foundations Associate  
+• AWS Solutions Architecture Virtual Experience  
+• Student President – ELEKTRA 2K25  
+
+---
+
+# 📬 Connect
+
+📍 Visakhapatnam, India  
+📧 <d.v.satyanarayana260@gmail.com>  
+
+> Engineering systems that scale. Optimizing systems that compute.

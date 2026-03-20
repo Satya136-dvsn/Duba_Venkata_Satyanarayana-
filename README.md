@@ -55,12 +55,12 @@ Engineer operating at the intersection of backend architecture, data systems, cl
 ## � Backend Application Architecture
 
 ```mermaid
-graph TD
+flowchart TD
     Client["Client (Web/App)"] --> REST["REST API Layer"]
-    REST --> Service["Service Layer (Business Logic)"]
-    Service --> Validation["Data Validation & Processing"]
-    Validation --> DB["Relational Database (MySQL/PostgreSQL)"]
-    DB --> Cloud["Cloud Deployment (AWS EC2 / Elastic Beanstalk)"]
+    REST --> Service["Service Layer<br>(Business Logic)"]
+    Service --> Validation["Data Validation<br>& Processing"]
+    Validation --> DB["Relational Database<br>(MySQL/PostgreSQL)"]
+    DB --> Cloud["Cloud Deployment<br>(AWS EC2/Elastic Beanstalk)"]
 ```
 
 ---
@@ -68,11 +68,11 @@ graph TD
 ## 🔹 Data Processing Workflow
 
 ```mermaid
-graph TD
-    Raw["Raw Dataset"] --> Clean["Cleaning & Transformation"]
+flowchart TD
+    Raw["Raw Dataset"] --> Clean["Cleaning &<br>Transformation"]
     Clean --> Rules["Validation Rules"]
     Rules --> Store["Structured Storage"]
-    Store --> Output["Analytics / Reporting Output"]
+    Store --> Output["Analytics /<br>Reporting Output"]
 ```
 
 ---
@@ -80,11 +80,11 @@ graph TD
 ## 🔹 FPGA Computational Design Flow
 
 ```mermaid
-graph TD
-    Algo["Algorithm Selection (Vedic + Karatsuba)"] --> RTL["RTL Design (Verilog)"]
-    RTL --> Sim["Simulation & Functional Validation"]
-    Sim --> Timing["Performance & Timing Analysis"]
-    Timing --> Opt["Optimization for Speed & Area"]
+flowchart TD
+    Algo["Algorithm Selection<br>(Vedic + Karatsuba)"] --> RTL["RTL Design (Verilog)"]
+    RTL --> Sim["Simulation &<br>Functional Validation"]
+    Sim --> Timing["Performance &<br>Timing Analysis"]
+    Timing --> Opt["Optimization for<br>Speed & Area"]
 ```
 
 ---
